@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+strong {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+#cek {
+    margin-top: -20rem;
+}
